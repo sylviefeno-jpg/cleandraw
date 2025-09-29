@@ -1,0 +1,9 @@
+name: cleandraw
+description: "Nettoie les dessins scannés (anti-flou, contours noirs renforcés, comble les halos blancs), export HD 300 DPI."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies
